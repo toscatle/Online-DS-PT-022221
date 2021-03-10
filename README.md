@@ -37,10 +37,5 @@ git fetch upstream
 
 6. Merge new changes onto your local repo
 ```
-git merge upstream/master -m "meaningful message about what you're updating"
-```
-
-7. Now you can push the new notebooks to your fork
-```
-git push
+git merge upstream/main -m "meaningful message about what you're updating"
 ```
